@@ -1,4 +1,4 @@
-export interface Hero {
+export interface Hola {
     id: number;
     name: string;
     direccion: string;
